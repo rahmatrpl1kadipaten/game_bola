@@ -1,0 +1,20 @@
+.body {
+    height: 50%;
+    background-image: url("https://i.ibb.co/rfnkRxp/bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+ .input {
+    background-color: transparent;
+      border-color: white;
+      color: white;
+      width: 150px;
+      height: 50px;
+  }
+.piter {
+    transition: width 1000000s, height 100s,transform 15s;
+   }
+     .piter:hover {
+    transform: rotate(360deg);
+   }
+    
